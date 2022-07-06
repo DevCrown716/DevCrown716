@@ -2,13 +2,12 @@
 
 ## 🤵 About_Me
 
-- 🌱 I'm currently learning front-end development
-- 🤔 I use daily `.js`,` .html`, `.sass`/`.css`
-- 📝 I write articles on [indietutes.com](https://indietutes.com)
-- 💬 Talk to me about Technology, Space and Politics
-- 😄 Pronouns: He/Him
-- 👯 I’m looking to collaborate on Web development
-- ☕ I don't use Caffeine
+- 🌱 I am an individual full-time blockchain and full-stack developer.
+- 🤔 I am also familiar with C/C++/C# and Python/Django.
+- 📝 I always write clean and reusable code.
+- 💬 Talk to me about your Projects or modern Technology.
+- 👯 I’m looking to collaborate on Blockchain and Web development.
+- 😄 I enjoy playing football, volleyball and reading books.
 
 ## 🌍 Lets_Connect_On
 
