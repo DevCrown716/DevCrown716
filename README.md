@@ -1,6 +1,4 @@
-# Hi, I'm Praveen 👋
-
-![Profile Banner](https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/images/github-profile-banner.png)
+# Hi, I'm DevKing716 👋
 
 ## 🤵 About_Me
 
@@ -188,5 +186,5 @@
 
 ---
 
-Credit: [pkkulhari](https://github.com/pkkulhari)  
-Last Edited on: 06/09/2021
+Credit: [DevKing716](https://github.com/DevKing716)  
+Last Edited on: 07/07/2022
