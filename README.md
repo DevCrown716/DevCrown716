@@ -2,7 +2,7 @@
 
 ## 🤵 About_Me
 
-- 🌱 I am an individual full-time Blockchain and Full-stack developer.
+- 🌱 I am an individual full-time Blockchain and Full-Stack developer.
 - 🤔 I am also familiar with C/C++/C# and Python/Django.
 - 📝 I always write clean and reusable code.
 - 💬 Talk to me about your Projects or modern Technology.
@@ -11,12 +11,8 @@
 
 ## 🌍 Lets_Connect_On
 
-- [Twitter - @pk_kulhari](https://twitter.com/pk_kulhari)
-- [Linkedin](https://www.linkedin.com/in/pkkulhari)
-- [Instagram - @pk_kulhari](https://www.instagram.com/pk_kulhari/)
-- [Hashnode - @pkkulhari](https://hashnode.com/@pkkulhari)
-- [Figma - @pkkulhari]()
-- [Codepen - @pkkulhari](https://codepen.io/pkkulhari)
+- Email - happycrown716@outlook.com
+- Skype - live:.cid.ef7b8c837d0558e3
 
 ## 🚀 My_Skills
 
