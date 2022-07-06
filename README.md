@@ -2,7 +2,7 @@
 
 ## 🤵 About_Me
 
-- 🌱 I am an individual full-time blockchain and full-stack developer.
+- 🌱 I am an individual full-time Blockchain and Full-stack developer.
 - 🤔 I am also familiar with C/C++/C# and Python/Django.
 - 📝 I always write clean and reusable code.
 - 💬 Talk to me about your Projects or modern Technology.
