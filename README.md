@@ -143,5 +143,5 @@ I am a senior Software Engineer with awesome Blockchain & Web technical skills, 
 </table>
 
 ### **_3. Contact_**
-  [![Skype](https://img.shields.io/badge/-Skype-grey?style=flat&logo=Skype&logoColor=white)](live:.cid.ef7b8c837d0558e3)
-  [![Email](https://img.shields.io/badge/-Email-blue?style=flat&logo=Email&logoColor=white)](happycrown716@outlook.com)
+  [![Skype](https://img.shields.io/badge/-Skype-grey?style=flat&logo=Skype&logoColor=white)](live:.cid.ef7b8c837d0558e3)live:.cid.ef7b8c837d0558e3<br>
+  [![Envelope](https://img.shields.io/badge/-Envelope-blue?style=flat&logo=Envelope&logoColor=white)](happycrown716@outlook.com)happycrown716@outlook.com
