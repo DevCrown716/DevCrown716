@@ -109,7 +109,7 @@ I am a senior Software Engineer with awesome Blockchain & Web technical skills, 
 ### **_Full-Stack_**
 <table>
   <tr>
-      <td><img src="https://github.com/DevCrown716/DevCrown716/blob/main/images/fullstack.png?raw=true" width="100%"></td>
+      <td><img src="https://github.com/DevCrown716/DevCrown716/blob/main/images/fullstack.png?raw=true" width="1200"></td>
   </tr>
 </table>
 
