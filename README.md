@@ -1,5 +1,8 @@
 # Senior Blockchain & Full-Stack developer
-### **_Blockchain Skills_**
+I am a senior Software Engineer with awesome web technical skills, hefty product development experience and the ability to thrive in a fast-paced environment, looking to create world-class web apps of HIGH STANDARD & TOP QUALITY. For years I've had an active interest in the web and modern technology. Being fascinated with its continuous fast progress I set myself for a challenge to become a Web and Blockchain Developer. I enjoy the process of building the web products from scratch. Solving problems and finding the best solutions is a creative process which often pushes us leaving our comfort zone and this is when we are growing, aren't we?
+
+### **_Blockchain_**
+- Skills
 <table>
   <tr>
       <td><img src="https://github.com/DevCrown716/DevCrown716/blob/main/icons/icon_nft.png?raw=true" width="200"></td>
@@ -9,7 +12,6 @@
       <td><img src="https://github.com/DevCrown716/DevCrown716/blob/main/icons/eth.png?raw=true" width="200"></td>
       <td><img src="https://github.com/DevCrown716/DevCrown716/blob/main/icons/icon_solidity.png?raw=true" width="200"></td>
       <td><img src="https://github.com/DevCrown716/DevCrown716/blob/main/icons/crypto.png?raw=true" width="200"></td>
-           
   </tr>  
 </table>
 
@@ -104,9 +106,12 @@
     </tr>  
 </table>
 
-![](https://github.com/DevCrown716/DevCrown716/blob/main/images/fullstack.png)
-
-Full Stack developer with awesome web technical skills, hefty product development experience and the ability to thrive in a fast-paced environment, looking to create world-class web apps of HIGH STANDARD & TOP QUALITY. For years I've had an active interest in the web and modern technology. Being fascinated with its continuous fast progress I set myself for a challenge to become a Web and Blockchain Developer. I enjoy the process of building the web products from scratch. Solving problems and finding the best solutions is a creative process which often pushes us leaving our comfort zone and this is when we are growing, aren't we?
+### **_Full-Stack_**
+<table>
+  <tr>
+      <td><img src="https://github.com/DevCrown716/DevCrown716/blob/main/images/fullstack.png?raw=true"></td>
+  </tr>
+</table>
 
 ### Languages and Tools:
 
@@ -122,15 +127,6 @@ Full Stack developer with awesome web technical skills, hefty product developmen
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-#### Blockchain Development
-![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC721-informational?style=flat&logo=erc721&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logo=erc1155&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Library-Web3-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a)
 
 #### Web & Mobile Development
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
