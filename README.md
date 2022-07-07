@@ -1,6 +1,110 @@
 # Senior Blockchain & Full-Stack developer
+### **_Skills_**
+<table>
+  <tr>
+      <td><img src="https://github.com/DevCrown716/DevCrown716/blob/main/icons/icon_nft.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/DevCrown716/DevCrown716/blob/main/icons/icon_pancake.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/DevCrown716/DevCrown716/blob/main/icons/icon_metamask.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/DevCrown716/DevCrown716/blob/main/icons/Solana.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/DevCrown716/DevCrown716/blob/main/icons/eth.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/DevCrown716/DevCrown716/blob/main/icons/icon_solidity.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/DevCrown716/DevCrown716/blob/main/icons/crypto.png?raw=true" width="200"></td>
+           
+  </tr>  
+</table>
 
-![](https://github.com/webdevsmart/webdevsmart/blob/main/fullstack.png)
+
+- NFT Marketplaces
+<table>
+    <thead align="center">
+        <tr>
+            <td>LunaChow NFT</td>
+            <td>PixelPimp Marketplace</td>
+            <td>Market Of Zion</td>            
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            <a href="https://lunachownft.com/">
+                <img src="https://github.com/DevCrown716/DevCrown716/blob/main/images/lunachow.jpg?raw=true" width="300">
+            </a>
+        </td>        
+        <td>
+            <a href="https://nft.pixelpimp.io/">
+                <img src="https://github.com/DevCrown716/DevCrown716/blob/main/images/pixelpimp.jpg?raw=true" width="300">
+            </a>
+        </td> 
+        <td>
+            <a href="https://marketofzion.com/">
+                <img src="https://github.com/DevCrown716/DevCrown716/blob/main/images/marketofzion.jpg?raw=true" width="300">
+            </a>
+        </td>     
+    </tr>
+</table>
+
+- NFT Mint Dapps
+<table>
+    <thead align="center">
+        <tr>
+            <td>Hell Demons</td>
+            <td>FunkiFoxes</td>           
+            <td>CryptoPigs</td>
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            <a href="https://helldemon.cryptoliveton.com/">
+                <img src="https://github.com/DevCrown716/DevCrown716/blob/main/images/helldemon.jpg?raw=true" width="300">
+            </a>
+        </td>
+        <td>
+            <a href="https://funkifoxes.com/">
+                <img src="https://github.com/DevCrown716/DevCrown716/blob/main/images/funkifoxes.jpg?raw=true" width="300">
+            </a>
+        </td> 
+        <td>
+            <a href="https://cryptopigs.one/#/">
+                <img src="https://github.com/DevCrown716/DevCrown716/blob/main/images/cruptopigs.jpg?raw=true" width="300">
+            </a>
+        </td>               
+    </tr>    
+</table>
+
+- Defi
+<table>
+    <thead align="center">
+        <tr>
+            <td>MaticSwap</td>
+            <td>DDEXX INFO</td>
+            <td>Token Bridge</td>  
+            <td>Block Explorer</td> 
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            <a href="https://maticfront.web.app/farms">
+                <img src="https://github.com/DevCrown716/DevCrown716/blob/main/images/maticswap.jpg?raw=true" width="300">
+            </a>
+        </td>          
+        <td>
+            <a href="http://analytics.ddexx.io">
+                <img src="https://github.com/DevCrown716/DevCrown716/blob/main/images/info.jpg?raw=true" width="300">
+            </a>
+        </td>   
+        <td>
+            <a href="https://theporinibridge.com/bridge">
+                <img src="https://github.com/DevCrown716/DevCrown716/blob/main/images/tokenbridge.jpg?raw=true" width="300">
+            </a>
+        </td> 
+        <td>
+            <a href="https://porini.xyz/">
+                <img src="https://github.com/DevCrown716/DevCrown716/blob/main/images/blockexplore.jpg?raw=true" width="300">
+            </a>
+        </td> 
+    </tr>  
+</table>
+
+![](https://github.com/DevCrown716/DevCrown716/blob/main/images/fullstack.png)
 
 Full Stack developer with awesome web technical skills, hefty product development experience and the ability to thrive in a fast-paced environment, looking to create world-class web apps of HIGH STANDARD & TOP QUALITY. For years I've had an active interest in the web and modern technology. Being fascinated with its continuous fast progress I set myself for a challenge to become a Web and Blockchain Developer. I enjoy the process of building the web products from scratch. Solving problems and finding the best solutions is a creative process which often pushes us leaving our comfort zone and this is when we are growing, aren't we?
 
