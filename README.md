@@ -1,5 +1,5 @@
 # Senior Blockchain & Full-Stack developer
-I am a senior Software Engineer with awesome Blockchain & Web technical skills, hefty product development experience and the ability to thrive in a fast-paced environment, looking to create world-class web apps of HIGH STANDARD & TOP QUALITY. For years I've had an active interest in the web and modern technology. Being fascinated with its continuous fast progress I set myself for a challenge to become a Web and Blockchain Developer. I enjoy the process of building the web products from scratch. Solving problems and finding the best solutions is a creative process which often pushes us leaving our comfort zone and this is when we are growing, aren't we?
+I am a senior Software Engineer with awesome Blockchain & Web technical skills, hefty product development experience and the ability to thrive in a fast-paced environment, have an aim to create world-class blockchain projects and web apps of HIGH STANDARD & TOP QUALITY. For years I've had an active interest in the web and modern technology. Being fascinated with its continuous fast progress I set myself for a challenge to become a Web and Blockchain Developer. I enjoy the process of building the products from scratch. Solving problems and finding the best solutions is a creative process which often pushes us leaving our comfort zone and this is when we are growing, aren't we?
 
 ### **_Blockchain_**
 - Skills
@@ -109,7 +109,7 @@ I am a senior Software Engineer with awesome Blockchain & Web technical skills, 
 ### **_Full-Stack_**
 <table>
   <tr>
-      <td><img src="https://github.com/DevCrown716/DevCrown716/blob/main/images/fullstack.png?raw=true"></td>
+      <td><img src="https://github.com/DevCrown716/DevCrown716/blob/main/images/fullstack.png?raw=true" width="100%"></td>
   </tr>
 </table>
 
