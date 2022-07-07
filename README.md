@@ -1,4 +1,5 @@
 # Senior Blockchain & Full-Stack developer
+1. Blockchain
 ### **_Skills_**
 <table>
   <tr>
@@ -104,11 +105,12 @@
     </tr>  
 </table>
 
+2. Full-Stack
 ![](https://github.com/DevCrown716/DevCrown716/blob/main/images/fullstack.png)
 
 Full Stack developer with awesome web technical skills, hefty product development experience and the ability to thrive in a fast-paced environment, looking to create world-class web apps of HIGH STANDARD & TOP QUALITY. For years I've had an active interest in the web and modern technology. Being fascinated with its continuous fast progress I set myself for a challenge to become a Web and Blockchain Developer. I enjoy the process of building the web products from scratch. Solving problems and finding the best solutions is a creative process which often pushes us leaving our comfort zone and this is when we are growing, aren't we?
 
-My Stacks
+3. Ny Stacks
 ### Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
